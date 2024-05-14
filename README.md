@@ -1,6 +1,6 @@
 # WMC1 HTML Teil II (Responsive Webdesign)
 
-Klasse: 4ACIF
+SS24 4ACIF
 
 ## Beurteilung
 
@@ -22,7 +22,6 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 
 
 ### Spezielle Anforderungen
-
 
 - Ihre Webseite soll (mindestens) aus folgenden Elementen bestehen:
   - Header
