@@ -18,7 +18,6 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 - HTML5 Elemente vor Div und Span
 - Relative Units vor absoluten Units
 - Verwendung von CSS-Variablen
-- Sauberer HTMl und CSS Code
 - HTML und CSS-Validierung (W3C Validator)
 
 
