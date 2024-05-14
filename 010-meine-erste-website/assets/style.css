@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+:root {
+    --color-primary: blue;
+    font-size: 22px;
+    font-family: "Open Sans", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightskyblue;
+}
+nav {
+    background-color: lightgreen;
+}
+
+#sidebar-1 {
+    background-color: lightyellow;
+}
+
+main section {
+    background-color: lightpink;
+}
+
+#sidebar-2 {
+    background-color: rgb(255, 100, 30);
+}
+
+footer {
+    background-color: #0A0A0A;
+    color: white;
+}
+
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Grid-Demo</title>
+</head>
+<body>
+
+
+<style>
+    :root {
+        font-family: "Open Sans", sans-serif;
+    }
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .container {
+        margin-top: 5%;
+        margin-inline: auto;
+        border: 2px dashed #B0BEC5;
+        width: 60vw;
+        padding: 0.4em;
+        background-color: #f6f8fa;
+    }
+    .item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        font-size: 1.4em;
+        min-height: 3em;
+        border: 1px solid #B0BEC5;
+    }
+</style>
+
+<main>
+    <section id="section-1">
+        <h2>Grid-Demo</h2>
+
+<!--        <div class="container">-->
+<!--            <div class="grid-item">Item 1</div>-->
+<!--            <div class="grid-item">Item 2</div>-->
+<!--            <div class="grid-item">Item 3</div>-->
+<!--            <div class="grid-item">Item 4</div>-->
+<!--        </div>-->
+
+        <div class="grid-container container grid-1">
+            <div id="item-1" class="item">Item 1</div>
+            <div id="item-2" class="item">Item 2</div>
+            <div id="item-3" class="item">Item 3</div>
+            <div id="item-4" class="item">Item 4</div>
+            <div id="item-5" class="item">Item 5</div>
+        </div>
+    </section>
+</main>
+
+
+</body>
+</html>

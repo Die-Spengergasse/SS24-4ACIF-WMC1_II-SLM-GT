@@ -1,0 +1,135 @@
+
+:root {
+    --size-xs: 0.2em;
+    --size-s: 0.4em;
+    --size-m: 0.6em;
+    --size-l: 0.8em;
+    --size-xl: 1.0em;
+
+    --contrast-0:  #FFFFFF;
+    --contrast-10:  #ECEFF1;
+    --contrast-20:  #CFD8DC;
+    --contrast-30:  #B0BEC5;
+    --contrast-40:  #90A4AE;
+    --contrast-50:  #78909C;
+    --contrast-60:  #607D8B;
+    --contrast-70:  #546E7A;
+    --contrast-80:  #455A64;
+    --contrast-90:  #37474F;
+    --contrast-100: #263238;
+
+    --primary-color: rgba(0, 229, 255, 1);
+    --primary-color-text: rgb(43, 166, 180);
+    --primary-color-50pct: rgba(0, 229, 255, 0.5);
+    /*--primary-color-50pct: rgba(0, 229, 255, 0.5);*/
+    --text-primar-color: black;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: var(--primary-color);
+}
+
+nav ul li a {
+    display: block;
+    padding: var(--size-m);
+    text-decoration: none;
+    color: var(--text-primary-color);
+    text-transform: uppercase;
+    font-size: 0.8em;
+    background-color: var(--primary-color);
+    text-align: center;
+}
+
+nav ul li a:hover {
+    filter: brightness(95%);
+}
+
+header,
+aside,
+main,
+footer {
+    padding: var(--size-l);
+}
+header {
+    background-color: var(--primary-color-50pct);
+}
+#sidebar-1,
+#sidebar-2 {
+    background-color: var(--contrast-20);
+}
+
+main section {
+    min-height: 100dvh;
+    background-color: white;
+    h2 {
+        color: var(--primary-color-text);
+    }
+}
+
+@media screen and (min-width: 600px){
+
+    nav ul {
+        display: flex;
+        flex-direction: row;
+    }
+    nav ul li a {
+        padding-inline: var(--size-l);
+    }
+
+    body {
+        display: grid;
+        grid-template-columns: 7fr 3fr;
+        grid-template-areas:
+                "header header"
+                "nav nav"
+                "main sidebar-1 "
+                "sidebar-2 sidebar-2"
+                "footer footer";
+        gap: var(--size-s);
+    }
+    section {
+        border: 1px solid var(--contrast-20);
+        padding: var(--size-m);
+    }
+    header {
+        grid-area: header;
+    }
+    nav {
+        grid-area: nav;
+    }
+    main {
+        grid-area: main;
+        padding: 0;
+    }
+    #sidebar-1 {
+        grid-area: sidebar-1;
+    }
+    #sidebar-2 {
+        grid-area: sidebar-2;
+    }
+    footer {
+        grid-area: footer;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    body {
+        grid-template-columns: 2fr 6fr 2fr;
+        grid-template-areas:
+                "header header header"
+                "nav nav nav"
+                "sidebar-2 main sidebar-1 "
+                "footer footer footer";
+        gap: var(--size-m);
+    }
+}
