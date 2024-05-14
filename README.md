@@ -29,6 +29,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
   - Navigation
   - Main-Content mit mindestens 3 Seiten
   - Zwei Sidebars
+  - Footer
 - Optimieren Sie Ihre Webseite, sodass Sie auch auf mobilen Geräten optimal dargestellt wird (Viewport-Meta-Tag)
 - Verwenden Sie für Ihr Makrolayout das CSS Grid-Layout 
 - Verwenden Sie für Ihre Mikrolayouts das CSS Flexbox- bzw. CSS Grid-Layout
