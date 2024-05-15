@@ -25,10 +25,10 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 
 - Ihre Webseite soll (mindestens) aus folgenden Elementen bestehen:
   - Header
-  - Titel
+  - Titel (h1)
   - Navigation
   - Main-Content mit mindestens 3 Seiten
-  - Zwei Sidebars
+  - Zwei Sidebars (aside)
   - Footer (min 3 Spalten)
 - Optimieren Sie Ihre Webseite, sodass Sie auch auf mobilen Geräten optimal dargestellt wird (Viewport-Meta-Tag)
 - Verwenden Sie für Ihr Makrolayout das CSS Grid-Layout 
