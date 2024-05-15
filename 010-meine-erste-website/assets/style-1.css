@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+:root {
+
+    --siz-xs: 0.2em;
+    --siz-s: 0.4em;
+    --siz-m: 0.6em;
+    --siz-l: 0.8em;
+    --siz-xl: 1.0em;
+
+    --contrast-0:   #FFFFFF;
+    --contrast-10:  #ECEFF1;
+    --contrast-20:  #CFD8DC;
+    --contrast-30:  #B0BEC5;
+    --contrast-40:  #90A4AE;
+    --contrast-50:  #78909C;
+    --contrast-60:  #607D8B;
+    --contrast-70:  #546E7A;
+    --contrast-80:  #455A64;
+    --contrast-90:  #37474F;
+    --contrast-100: #263238;
+
+    --primary-color: #00E5FF;
+    --primary-color-text: #00B8D4;
+
+}
+
+#grid-container-1 {
+    display: grid;
+}
+
+nav ul {
+    /*padding-left: 50px;*/
+    list-style-type: none;
+}
+
+nav ul li a {
+    display: block;
+    padding: var(--siz-m);
+    background-color: var(--primary-color);
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+nav ul li a:hover {
+    /*background-color: olivedrab;*/
+    filter: brightness(95%);
+}
+
+header {
+    /*background-color: white;*/
+}
+header,
+main,
+footer,
+#sidebar-1,
+#sidebar-2 {
+    /*background-color: red;*/
+    padding: var(--siz-l);
+}
+
+#sidebar-1,
+#sidebar-2 {
+    background-color: var(--contrast-40);
+    color: white;
+}
+
+
+/*.sidebar {*/
+/*    background-color: deeppink;*/
+/*}*/
+
+@media print {
+    .no-print {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 600px){
+    #grid-container-1 {
+        display: grid;
+        column-gap: var(--siz-xl);
+        row-gap: var(--size-xl);
+
+        grid-template-columns: 2fr 1fr;
+        grid-template-areas:
+                "header header"
+                "nav nav"
+                "main sidebar-1 "
+                "sidebar-2 sidebar-2"
+                "footer footer";
+    }
+    header {
+        grid-area: header;
+    }
+    nav {
+        grid-area: nav;
+    }
+    main {
+        grid-area: main;
+    }
+    #sidebar-1 {
+        grid-area: sidebar-1;
+    }
+    #sidebar-2 {
+        grid-area: sidebar-2;
+    }
+    footer {
+        grid-area: footer;
+    }
+
+}
+
+@media screen and (min-width: 1000px){
+    header {
+        background-color: green;
+    }
+}
+
+/*@media screen and(min-width: 30em) and (max-width: 50em) {*/
+
+/*    header {*/
+/*        background-color: red;*/
+/*    }*/
+/*}*/

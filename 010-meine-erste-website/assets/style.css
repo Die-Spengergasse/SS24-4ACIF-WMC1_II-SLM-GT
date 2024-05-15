@@ -14,22 +14,22 @@
 }
 
 header {
-    background-color: lightskyblue;
+    /*background-color: lightskyblue;*/
 }
 nav {
-    background-color: lightgreen;
+    /*background-color: lightgreen;*/
 }
 
 #sidebar-1 {
-    background-color: lightyellow;
+    /*background-color: lightyellow;*/
 }
 
-main section {
-    background-color: lightpink;
-}
+/*main section {*/
+/*    background-color: lightpink;*/
+/*}*/
 
 #sidebar-2 {
-    background-color: rgb(255, 100, 30);
+    /*background-color: rgb(255, 100, 30);*/
 }
 
 footer {
