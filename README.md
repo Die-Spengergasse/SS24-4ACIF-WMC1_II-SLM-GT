@@ -1,6 +1,6 @@
 # WMC1 HTML Teil II (Responsive Webdesign)
 
-Klasse: 4ACIF
+SS24 4ACIF
 
 ## Beurteilung
 
@@ -18,12 +18,10 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 - HTML5 Elemente vor Div und Span
 - Relative Units vor absoluten Units
 - Verwendung von CSS-Variablen
-- Sauberer HTMl und CSS Code
 - HTML und CSS-Validierung (W3C Validator)
 
 
 ### Spezielle Anforderungen
-
 
 - Ihre Webseite soll (mindestens) aus folgenden Elementen bestehen:
   - Header
@@ -31,6 +29,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
   - Navigation
   - Main-Content mit mindestens 3 Seiten
   - Zwei Sidebars
+  - Footer
 - Optimieren Sie Ihre Webseite, sodass Sie auch auf mobilen Geräten optimal dargestellt wird (Viewport-Meta-Tag)
 - Verwenden Sie für Ihr Makrolayout das CSS Grid-Layout 
 - Verwenden Sie für Ihre Mikrolayouts das CSS Flexbox- bzw. CSS Grid-Layout
