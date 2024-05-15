@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flex-Demo</title>
+
+    <style>
+        :root {
+            font-family: "Open Sans", sans-serif;
+        }
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        section {
+            padding: 2em;
+            /*text-align: center;*/
+        }
+        .container {
+            margin-top: 5%;
+            margin-inline: auto;
+            border: 2px dashed #B0BEC5;
+            /*padding: 0.4em;*/
+            background-color: #f6f8fa;
+            min-height: 80vh;
+            min-width: 80vw;
+        }
+        .item {
+            padding: 2em;
+            background-color: white;
+            border: 1px solid #B0BEC5;
+        }
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: start;
+        }
+    </style>
+
+</head>
+<body>
+
+<main>
+    <section id="section-1">
+        <h2>Flex-Demo</h2>
+
+        <div class="flex-container container grid-1">
+            <span id="item-1" class="item">Bild 1</span>
+            <span id="item-2" class="item">Bild 2</span>
+            <div id="item-3" class="item">Bild 3</div>
+            <div id="item-4" class="item">Bild 4</div>
+            <div id="item-5" class="item">Bild 5</div>
+        </div>
+    </section>
+</main>
+</body>
+</html>

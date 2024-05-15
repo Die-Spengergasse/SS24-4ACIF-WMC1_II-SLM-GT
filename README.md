@@ -95,8 +95,9 @@ siehe: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_co
 
 ## Flexbox
 
-siehe: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
-
+siehe: 
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Layout Cookbook
 
