@@ -29,7 +29,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
   - Navigation
   - Main-Content mit mindestens 3 Seiten
   - Zwei Sidebars
-  - Footer
+  - Footer (min 3 Spalten)
 - Optimieren Sie Ihre Webseite, sodass Sie auch auf mobilen Geräten optimal dargestellt wird (Viewport-Meta-Tag)
 - Verwenden Sie für Ihr Makrolayout das CSS Grid-Layout 
 - Verwenden Sie für Ihre Mikrolayouts das CSS Flexbox- bzw. CSS Grid-Layout
@@ -48,7 +48,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 - Container-Abfragen: @container - https://developer.mozilla.org/en-US/docs/Web/CSS/@container
 - CSS-Animationen: @keyframes - https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
 - Parallax Scrolling
-- - ect.
+- ect.
 
 
 ### Abgabe
@@ -93,9 +93,9 @@ see: https://developer.mozilla.org/en-US/docs/Web/CSS/@media
 siehe: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout
 
 
-## Flow
+## Flexbox
 
-siehe: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flow_layout/Block_and_inline_layout_in_normal_flow
+siehe: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 
 
 ## Layout Cookbook
