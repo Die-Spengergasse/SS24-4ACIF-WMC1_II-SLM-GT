@@ -72,7 +72,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 | Jane Doe |
 
 
-### Termin 25.06.2024
+### Termin 18.06.2024
 
 
 | Name     |
