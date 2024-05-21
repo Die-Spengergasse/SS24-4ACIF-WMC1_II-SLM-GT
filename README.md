@@ -29,7 +29,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
   - Navigation
   - Main-Content mit mindestens 3 Seiten
   - Zwei Sidebars (aside)
-  - Footer (min 3 Spalten)
+  - Footer (min 3 Bereiche)
 - Optimieren Sie Ihre Webseite, sodass Sie auch auf mobilen Geräten optimal dargestellt wird (Viewport-Meta-Tag)
 - Verwenden Sie für Ihr Makrolayout das CSS Grid-Layout 
 - Verwenden Sie für Ihre Mikrolayouts das CSS Flexbox- bzw. CSS Grid-Layout
@@ -69,7 +69,22 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 
 | Name     |
 |----------|
-| Jane Doe |
+| Sylvia Aiyoub |
+| Barbara Swoboda Handler |
+| Sophie Kahl |
+| Spoto Giorgio | Matteo
+| Alan Tatamov |
+| Denise Schmid |
+| Jakob Kahrer |
+| Daniel Schwarz |
+| Konstantina Karzanov |
+| Gabriel Dvorak |
+| Bassem Osman |
+| Osama Alkhalaf |
+| Osama Elgzar |
+| Israa Elmoghazi |
+| Mathias Horcher |
+
 
 
 ### Termin 18.06.2024
@@ -77,8 +92,18 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 
 | Name     |
 |----------|
-| John Doe |
-
+| Mehri Sameri Zadeh |
+| Sarah Schmiedl |
+| Jonas Strobl |
+| Yurii Savonik |
+| Taalaibekov Aibek |
+| Elahe Ahmadi |
+| Mirzhan Eldarhanov |
+| Maria Homolka |
+| Mustafa Isikli |
+| Lukas Poscher |
+| Abdollah Mujic |
+| Isha Gautam |
 
 ## Media Query
 
