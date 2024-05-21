@@ -65,45 +65,26 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 - Erklären Sie, was und wie Sie Ihre Webseite implementiert haben 
 - Welches Zusatzthema haben Sie gewählt und wie wurde es umgesetzt
 
-### Termin 11.06.2024
+### Projekt Präsentationen
 
-| Name     |
-|----------|
-| Sylvia Aiyoub |
-| Barbara Swoboda Handler |
-| Sophie Kahl |
-| Spoto Giorgio | Matteo
-| Alan Tatamov |
-| Denise Schmid |
-| Jakob Kahrer |
-| Daniel Schwarz |
-| Konstantina Karzanov |
-| Gabriel Dvorak |
-| Bassem Osman |
-| Osama Alkhalaf |
-| Osama Elgzar |
-| Israa Elmoghazi |
-| Mathias Horcher |
+| 11.06.2024              | 18.06.2024         |
+|-------------------------|--------------------|
+| Sylvia Aiyoub           | Mehri Sameri Zadeh |
+| Barbara Swoboda Handler | Sarah Schmiedl     |
+| Sophie Kahl             | Jonas Strobl       |
+| Spoto Giorgio Matteo    | Yurii Savonik      |
+| Alan Tatamov            | Taalaibekov Aibek  |
+| Denise Schmid           | Elahe Ahmadi       |
+| Jakob Kahrer            | Mirzhan Eldarhanov |
+| Daniel Schwarz          | Maria Homolka      |
+| Konstantina Karzanov    | Mustafa Isikli     |
+| Gabriel Dvorak          | Lukas Poscher      |
+| Bassem Osman            | Abdollah Mujic     |
+| Osama Alkhalaf          | Isha Gautam        |
+| Osama Elgzar            |                    |
+| Israa Elmoghazi         |                    |
+| Mathias Horcher         |                    |
 
-
-
-### Termin 18.06.2024
-
-
-| Name     |
-|----------|
-| Mehri Sameri Zadeh |
-| Sarah Schmiedl |
-| Jonas Strobl |
-| Yurii Savonik |
-| Taalaibekov Aibek |
-| Elahe Ahmadi |
-| Mirzhan Eldarhanov |
-| Maria Homolka |
-| Mustafa Isikli |
-| Lukas Poscher |
-| Abdollah Mujic |
-| Isha Gautam |
 
 ## Media Query
 
