@@ -65,7 +65,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 - Erklären Sie, was und wie Sie Ihre Webseite implementiert haben 
 - Welches Zusatzthema haben Sie gewählt und wie wurde es umgesetzt
 
-### Projekt Präsentationen
+### Termine
 
 | 11.06.2024              | 18.06.2024         |
 |-------------------------|--------------------|
