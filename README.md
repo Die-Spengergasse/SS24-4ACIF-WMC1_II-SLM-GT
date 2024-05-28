@@ -54,7 +54,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 ### Abgabe
 **Abgabetermin: bis 11.06.2024 - 17:10 Uhr**
 
-**Abgabelink:** [ Das Abgabefenster ist noch nicht geöffnet ]
+**Abgabelink:** [Moodle-Upload](https://moodle.spengergasse.at/mod/assign/view.php?id=225442)
 
 
 
@@ -91,7 +91,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 Syntax:
 ```@media = @media <media-query-list> { <rule-list> } ```
 
-see: https://developer.mozilla.org/en-US/docs/Web/CSS/@media
+siehe: https://developer.mozilla.org/en-US/docs/Web/CSS/@media
 
 
 ## Grid
