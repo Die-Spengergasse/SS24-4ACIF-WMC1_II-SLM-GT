@@ -81,7 +81,7 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 | Gabriel Dvorak          | Lukas Poscher      |
 | Bassem Osman            | Abdollah Mujic     |
 | Osama Alkhalaf          | Isha Gautam        |
-| Osama Elgzar            |                    |
+| Osama Elgzar            | Eskaf Mohmmad Taleb |
 | Israa Elmoghazi         |                    |
 | Mathias Horcher         |                    |
 
