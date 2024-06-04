@@ -82,8 +82,8 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 | Bassem Osman            | Abdollah Mujic     |
 | Osama Alkhalaf          | Isha Gautam        |
 | Osama Elgzar            | Eskaf Mohmmad Taleb |
-| Israa Elmoghazi         |                    |
-| Mathias Horcher         |                    |
+| Israa Elmoghazi         | Mathias Horcher     |
+|          |                    |
 
 
 ## Media Query
