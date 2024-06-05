@@ -52,9 +52,10 @@ Erstellen Sie eine *responsive* Webseite mit einem Thema Ihrer Wahl und halten S
 
 
 ### Abgabe
-**Abgabetermin: bis 11.06.2024 - 17:10 Uhr**
-
-**Abgabelink:** [Moodle-Upload](https://moodle.spengergasse.at/mod/assign/view.php?id=225442)
+- **Abgabetermin: bis 11.06.2024 - 17:10 Uhr**
+- Benennen Sie Ihren Projektordner um: **4ACIF_HTML-II_ZUNAME_Vorname**
+- Komprimieren (zip, rar, ...) Sie Ihr Projekt: **4ACIF_HTML-II_ZUNAME_Vorname.zip**
+- Laden Sie Ihr Projekt auf Moodle hoch: [Moodle-Upload](https://moodle.spengergasse.at/mod/assign/view.php?id=225442)
 
 
 
